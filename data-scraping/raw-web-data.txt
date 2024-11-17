@@ -1,0 +1,790 @@
+1. 
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 4000) run: 765,686 spots, 229.7M bases, 84.7Mb downloads
+
+Accession: SRX15790665
+Select item 22440578
+2.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 4000) run: 3.9M spots, 1.2G bases, 418.9Mb downloads
+
+Accession: SRX15790664
+Select item 22440577
+3.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 4000) run: 1.4M spots, 433.6M bases, 156.7Mb downloads
+
+Accession: SRX15790663
+Select item 22440576
+4.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 4000) run: 2.9M spots, 872M bases, 311.6Mb downloads
+
+Accession: SRX15790662
+Select item 22315020
+5.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 11.3M spots, 3.4G bases, 1.2Gb downloads
+
+Accession: SRX15687504
+Select item 22315019
+6.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.3M spots, 696.5M bases, 261.6Mb downloads
+
+Accession: SRX15687503
+Select item 22315018
+7.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3M spots, 890M bases, 354.9Mb downloads
+
+Accession: SRX15687502
+Select item 22315017
+8.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.3M spots, 975.4M bases, 357.2Mb downloads
+
+Accession: SRX15687501
+Select item 22315016
+9.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.6M spots, 790.4M bases, 298.3Mb downloads
+
+Accession: SRX15687500
+Select item 22315015
+10.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3M spots, 909.5M bases, 338.6Mb downloads
+
+Accession: SRX15687499
+Select item 22315014
+11.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 8.1M spots, 2.4G bases, 922.2Mb downloads
+
+Accession: SRX15687498
+Select item 22315013
+12.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.8M spots, 1.1G bases, 411.2Mb downloads
+
+Accession: SRX15687497
+Select item 22315012
+13.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.6M spots, 776.7M bases, 290.4Mb downloads
+
+Accession: SRX15687496
+Select item 22315011
+14.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.4M spots, 415.1M bases, 154.1Mb downloads
+
+Accession: SRX15687495
+Select item 22315010
+15.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 953,069 spots, 268.3M bases, 104.4Mb downloads
+
+Accession: SRX15687494
+Select item 22315009
+16.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 6.5M spots, 2G bases, 741.1Mb downloads
+
+Accession: SRX15687493
+Select item 22315008
+17.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.1M spots, 641.9M bases, 236.1Mb downloads
+
+Accession: SRX15687492
+Select item 22315007
+18.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.7M spots, 814.9M bases, 305.7Mb downloads
+
+Accession: SRX15687491
+Select item 22315006
+19.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.3M spots, 1.3G bases, 486.8Mb downloads
+
+Accession: SRX15687490
+Select item 22315005
+20.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.1M spots, 1.2G bases, 461.7Mb downloads
+
+Accession: SRX15687489
+Select item 22315004
+21.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.8M spots, 845.8M bases, 323.3Mb downloads
+
+Accession: SRX15687488
+Select item 22315003
+22.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 5.6M spots, 1.7G bases, 622Mb downloads
+
+Accession: SRX15687487
+Select item 22315002
+23.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.1M spots, 1.2G bases, 459.4Mb downloads
+
+Accession: SRX15687486
+Select item 22315001
+24.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.6M spots, 1.1G bases, 404.5Mb downloads
+
+Accession: SRX15687485
+Select item 22315000
+25.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.6M spots, 786.4M bases, 291.8Mb downloads
+
+Accession: SRX15687484
+Select item 22314999
+26.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 738,658 spots, 221.6M bases, 84.5Mb downloads
+
+Accession: SRX15687483
+Select item 22314998
+27.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.4M spots, 721M bases, 275Mb downloads
+
+Accession: SRX15687482
+Select item 22314997
+28.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.7M spots, 1.1G bases, 419.8Mb downloads
+
+Accession: SRX15687481
+Select item 22314996
+29.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.9M spots, 1.2G bases, 443Mb downloads
+
+Accession: SRX15687480
+Select item 22314995
+30.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.7M spots, 820.9M bases, 304.2Mb downloads
+
+Accession: SRX15687479
+Select item 22314994
+31.
+DNA-seqofSternadougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.6M spots, 479.9M bases, 175.2Mb downloads
+
+Accession: SRX15687478
+Select item 22314993
+32.
+DNA-seqofSternadougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 434,813 spots, 130.4M bases, 47.9Mb downloads
+
+Accession: SRX15687477
+Select item 22314992
+33.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2 spots, 600 bases, 55,407b downloads
+
+Accession: SRX15687476
+Select item 22314991
+34.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 14.4M spots, 3.4G bases, 1.2Gb downloads
+
+Accession: SRX15687475
+Select item 22314990
+35.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 338 spots, 101,400 bases, 119,516b downloads
+
+Accession: SRX15687474
+Select item 22314989
+36.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 15.2M spots, 4.5G bases, 1.7Gb downloads
+
+Accession: SRX15687473
+Select item 22314988
+37.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 270,807 spots, 81.2M bases, 29.5Mb downloads
+
+Accession: SRX15687472
+Select item 22314987
+38.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.4M spots, 1.3G bases, 494.2Mb downloads
+
+Accession: SRX15687471
+Select item 22314986
+39.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 6.8M spots, 2.1G bases, 786.8Mb downloads
+
+Accession: SRX15687470
+Select item 22314985
+40.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.3M spots, 1.3G bases, 488.3Mb downloads
+
+Accession: SRX15687469
+Select item 22314984
+41.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.8M spots, 833.8M bases, 310.1Mb downloads
+
+Accession: SRX15687468
+Select item 22314983
+42.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 16.7M spots, 5G bases, 1.9Gb downloads
+
+Accession: SRX15687467
+Select item 22314982
+43.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2M spots, 606.7M bases, 240.3Mb downloads
+
+Accession: SRX15687466
+Select item 22314981
+44.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.5M spots, 737.4M bases, 273.5Mb downloads
+
+Accession: SRX15687465
+Select item 22314980
+45.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 7.4M spots, 2.2G bases, 817Mb downloads
+
+Accession: SRX15687464
+Select item 22314979
+46.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.4M spots, 411.2M bases, 154.2Mb downloads
+
+Accession: SRX15687463
+Select item 22314978
+47.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.7M spots, 1.4G bases, 536.1Mb downloads
+
+Accession: SRX15687462
+Select item 22314977
+48.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.9M spots, 1.5G bases, 540.6Mb downloads
+
+Accession: SRX15687461
+Select item 22314976
+49.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.9M spots, 579.7M bases, 212Mb downloads
+
+Accession: SRX15687460
+Select item 22314975
+50.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2M spots, 601.5M bases, 217.2Mb downloads
+
+Accession: SRX15687459
+Select item 22314974
+51.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.1M spots, 631.6M bases, 230.8Mb downloads
+
+Accession: SRX15687458
+Select item 22314973
+52.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.6M spots, 784.7M bases, 289.2Mb downloads
+
+Accession: SRX15687457
+Select item 22314972
+53.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.9M spots, 875.7M bases, 323.1Mb downloads
+
+Accession: SRX15687456
+Select item 22314971
+54.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 802,134 spots, 240.6M bases, 93.1Mb downloads
+
+Accession: SRX15687455
+Select item 22314970
+55.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 595,090 spots, 178.5M bases, 68.7Mb downloads
+
+Accession: SRX15687454
+Select item 22314969
+56.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.2M spots, 670.1M bases, 259Mb downloads
+
+Accession: SRX15687453
+Select item 22314968
+57.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.7M spots, 509.3M bases, 191.3Mb downloads
+
+Accession: SRX15687452
+Select item 22314967
+58.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3M spots, 891.4M bases, 340.8Mb downloads
+
+Accession: SRX15687451
+Select item 22314966
+59.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 451,203 spots, 135.4M bases, 50Mb downloads
+
+Accession: SRX15687450
+Select item 22314965
+60.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 9.3M spots, 2.8G bases, 1.1Gb downloads
+
+Accession: SRX15687449
+Select item 22314964
+61.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2 spots, 600 bases, 78,292b downloads
+
+Accession: SRX15687448
+Select item 22314963
+62.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.4M spots, 475.8M bases, 177.9Mb downloads
+
+Accession: SRX15687447
+Select item 22314962
+63.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.2M spots, 963.3M bases, 360Mb downloads
+
+Accession: SRX15687446
+Select item 22314961
+64.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2M spots, 610.4M bases, 234Mb downloads
+
+Accession: SRX15687445
+Select item 22314960
+65.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.5M spots, 442.4M bases, 162.3Mb downloads
+
+Accession: SRX15687444
+Select item 22314959
+66.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 5.1M spots, 1.5G bases, 545.5Mb downloads
+
+Accession: SRX15687443
+Select item 22314958
+67.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.4M spots, 715.5M bases, 257.8Mb downloads
+
+Accession: SRX15687442
+Select item 22314957
+68.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 616,600 spots, 185M bases, 65.8Mb downloads
+
+Accession: SRX15687441
+Select item 22314955
+69.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 484,675 spots, 145.4M bases, 53.1Mb downloads
+
+Accession: SRX15687439
+Select item 22314953
+70.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 43,440 spots, 13M bases, 4.9Mb downloads
+
+Accession: SRX15687437
+Select item 22314951
+71.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.2M spots, 660.2M bases, 234.1Mb downloads
+
+Accession: SRX15687435
+Select item 22314950
+72.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.1M spots, 926.9M bases, 331Mb downloads
+
+Accession: SRX15687434
+Select item 22314948
+73.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 10.4M spots, 3.1G bases, 1.2Gb downloads
+
+Accession: SRX15687432
+Select item 22314947
+74.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.3M spots, 991M bases, 362.7Mb downloads
+
+Accession: SRX15687431
+Select item 22314946
+75.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.9M spots, 869.2M bases, 322.9Mb downloads
+
+Accession: SRX15687430
+Select item 22314945
+76.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.3M spots, 684.2M bases, 257.6Mb downloads
+
+Accession: SRX15687429
+Select item 22314944
+77.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 403,303 spots, 121M bases, 44Mb downloads
+
+Accession: SRX15687428
+Select item 22314943
+78.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.9M spots, 1.5G bases, 538.7Mb downloads
+
+Accession: SRX15687427
+Select item 22314942
+79.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.8M spots, 849.3M bases, 316.5Mb downloads
+
+Accession: SRX15687426
+Select item 22314941
+80.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.9M spots, 563.8M bases, 211.7Mb downloads
+
+Accession: SRX15687425
+Select item 22314940
+81.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.3M spots, 675.7M bases, 252.3Mb downloads
+
+Accession: SRX15687424
+Select item 22314939
+82.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 10.4M spots, 3.1G bases, 1.1Gb downloads
+
+Accession: SRX15687423
+Select item 22314938
+83.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 9.4M spots, 2.7G bases, 1Gb downloads
+
+Accession: SRX15687422
+Select item 22314937
+84.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 11.3M spots, 3.4G bases, 1.3Gb downloads
+
+Accession: SRX15687421
+Select item 22314936
+85.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.4M spots, 685.9M bases, 250.8Mb downloads
+
+Accession: SRX15687420
+Select item 22314935
+86.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 11.3M spots, 3.4G bases, 1.3Gb downloads
+
+Accession: SRX15687419
+Select item 22314934
+87.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 20.1M spots, 3.9G bases, 1.4Gb downloads
+
+Accession: SRX15687418
+Select item 22314933
+88.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 606,510 spots, 182M bases, 67.9Mb downloads
+
+Accession: SRX15687417
+Select item 22314932
+89.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 673,966 spots, 202.2M bases, 72Mb downloads
+
+Accession: SRX15687416
+Select item 22314931
+90.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 882,282 spots, 264.7M bases, 94Mb downloads
+
+Accession: SRX15687415
+Select item 22314930
+91.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 6.8M spots, 2G bases, 743.8Mb downloads
+
+Accession: SRX15687414
+Select item 22314929
+92.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.9M spots, 1.2G bases, 461Mb downloads
+
+Accession: SRX15687413
+Select item 22314928
+93.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3.5M spots, 1.1G bases, 418.2Mb downloads
+
+Accession: SRX15687412
+Select item 22314927
+94.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1.1M spots, 322.3M bases, 122Mb downloads
+
+Accession: SRX15687411
+Select item 22314926
+95.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 132 spots, 39,600 bases, 99,071b downloads
+
+Accession: SRX15687410
+Select item 22314925
+96.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 3M spots, 896.5M bases, 349.2Mb downloads
+
+Accession: SRX15687409
+Select item 22314924
+97.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 684,662 spots, 205.4M bases, 73.7Mb downloads
+
+Accession: SRX15687408
+Select item 22314923
+98.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 55,469 spots, 16.6M bases, 6.7Mb downloads
+
+Accession: SRX15687407
+Select item 22314922
+99.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 994,483 spots, 298.3M bases, 112.3Mb downloads
+
+Accession: SRX15687406
+Select item 22314921
+100.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 885,904 spots, 265.8M bases, 104Mb downloads
+
+Accession: SRX15687405
+Select item 22314920
+101.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.2M spots, 1.3G bases, 487.8Mb downloads
+
+Accession: SRX15687404
+Select item 22314919
+102.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 1,478 spots, 443,400 bases, 262,960b downloads
+
+Accession: SRX15687403
+Select item 22314918
+103.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 123,931 spots, 37.2M bases, 14.4Mb downloads
+
+Accession: SRX15687402
+Select item 22314917
+104.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4.9M spots, 1.5G bases, 533Mb downloads
+
+Accession: SRX15687401
+Select item 22314916
+105.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 590,934 spots, 177.3M bases, 65.1Mb downloads
+
+Accession: SRX15687400
+Select item 22314915
+106.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 12M spots, 3.2G bases, 1.2Gb downloads
+
+Accession: SRX15687399
+Select item 22314914
+107.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 4M spots, 1.2G bases, 461.9Mb downloads
+
+Accession: SRX15687398
+Select item 22314913
+108.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 7.1M spots, 2.1G bases, 814.3Mb downloads
+
+Accession: SRX15687397
+Select item 22314912
+109.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.7M spots, 809.8M bases, 308.9Mb downloads
+
+Accession: SRX15687396
+Select item 22314911
+110.
+DNA-seq of Sterna dougalii: blood
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 2.1M spots, 636.1M bases, 236.7Mb downloads
+
+Accession: SRX15687395
+Select item 22314910
+111.
+DNA-seq of Sterna dougalii: salvaged tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 57 spots, 17,100 bases, 87,128b downloads
+
+Accession: SRX15687394
+Select item 22314909
+112.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 300,790 spots, 90.2M bases, 34.1Mb downloads
+
+Accession: SRX15687393
+Select item 22314908
+113.
+DNA-seq of Sterna dougalii: museum tissue
+
+1 ILLUMINA (Illumina HiSeq 1500) run: 122,061 spots, 36.6M bases, 13.3Mb downloads
+
+Accession: SRX15687392
